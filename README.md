@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vansh Bhatt</h1>
-<h3 align="center">A 3rd year CS Major at SFU 🇨🇦</h3>
+<h3 align="center">A 4th year CS Major at SFU 🇨🇦</h3>
 
 - 💬 Ask me about **anything!**
 
