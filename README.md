@@ -9,7 +9,8 @@
   
 - Check out my work spread across various repositories on this profile—there’s something exciting in every corner! 🚀
   
-- Check My Personal Portfolio[https://vansh-837.github.io/personal-portfolio/]
+- [Check My Personal Portfolio](https://vansh-837.github.io/personal-portfolio/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
